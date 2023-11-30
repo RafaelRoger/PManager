@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044200065600",
+    "project_id": "pmanagerapp67",
+    "storage_bucket": "pmanagerapp67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044200065600:android:5ac71417d96f13b085ada5",
+        "android_client_info": {
+          "package_name": "com.example.pmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OEnMcGtWvU7i4zrJKjXpBHVMNwFVeU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PManager</string>
+    <string name="default_web_client_id">376665433556-km5hu8h3i1ee51hoqs7kmnlv0s2d749m.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="twitterUsername">\@rafael67</string>
+</resources>
